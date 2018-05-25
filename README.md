@@ -8,19 +8,20 @@
        2. Support Multiple Tabs . 
        3. Syntax Highlighting & Code Folding .
        4. Quick links to useful programming tutorials .
-       5. View Complete <b>CODEFORCES<b> profile of any user . 
+       5. View Complete <b>CODEFORCES</b> profile of any user . 
        6. Set Font according to your choice .
        7. Supports UNDO / REDO operations .
 
 ###   Technology used :
        1.  JAVA Application build on NETBEANS .
        2.  System Calls to Compile & Run . 
+       3.  Multithreading is also used .
        3.  RsyntaxTextArea library for syntax highlighting .
        4.  Codeforces API to retrieve User's complete profile . 
 
 ### New features to be implemented :<br />
        1.  Database to store link of useful tutorials on programming and important pdf tutorials in BLOB form .
-       2.  Database to store links of TODO list .
+       2.  Database to store links of TODO list . (JDBC for all DATABASE handling)
        3.  Interactive Console window .
        
 ### Authors
