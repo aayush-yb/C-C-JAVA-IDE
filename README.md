@@ -9,7 +9,7 @@ It also provide a  feature using which you can view complete codeforces profile 
 It also provide links for several useful tutorials for competetitive programming. 
 It supports Undo/Redo operations .
 
-New features to be implemented :
+New features to be implemented :<br />
        1.  Database to store link of useful tutorials on programming and important pdf tutorials in BLOB form .
        2.  Database to store links of TODO list .
 # Authors
