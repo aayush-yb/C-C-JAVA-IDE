@@ -12,7 +12,7 @@ It supports Undo/Redo operations .
 ## New features to be implemented :<br />
        1.  Database to store link of useful tutorials on programming and important pdf tutorials in BLOB form .<br />
        2.  Database to store links of TODO list .
-# Authors
+### Authors
   1. Aayush Chauhan
   2. Tuhin Subhra Patra
   3. Vijay krishan pandey
